@@ -1,0 +1,185 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    scroll-behavior: smooth;
+
+    
+}
+
+body{
+    background:#f3f3f5;
+}
+
+.navbar {
+    background:rgb(17, 17, 17);
+}
+.logo{
+    width: 50px;
+}
+
+.a{
+    color: #fff;
+}
+
+.nav-link:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+    
+}
+
+
+.container{
+    width: 100%;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    margin-top: 30px;
+    gap: 50px;
+}
+
+.text{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    gap: 20px;
+
+}
+
+h1{
+    font-size: 3rem ;
+    font-weight: 600;
+}
+
+h2{
+    font-size: 3em ;
+    font-weight: 300;
+}
+
+p{
+font-size:1.5rem ;
+width: 65%;
+font-weight: 400;
+
+}
+
+.paynow{
+    font-size:1.6em ;
+    text-decoration: none;
+    background:#008DDA;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px ;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.img{
+    min-width: 100%;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+.iPhone_black{
+    width: 70%;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    
+    
+}
+
+.btn1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* --------------- */
+.blue{
+    width: 30px;
+    height: 30px;
+    background-color: #2f6caa;
+    border-radius: 50px;
+}
+.blue:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+/* -------------- */
+
+.green{
+    width: 30px;
+    height: 30px;
+    background-color: #406d3e;
+    border-radius: 50px;
+}
+.green:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+/* ------------- */
+.pink{
+    width: 30px;
+    height: 30px;
+    background-color: #F5DAD2;
+    border-radius: 50px;
+}
+.pink:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+/* ---------- */
+.red{
+    width: 30px;
+    height: 30px;
+    background-color: #DF2E38;
+    border-radius: 50px;
+}
+.red:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+/* ------------------ */
+.white{
+    width: 30px;
+    height: 30px;
+    background-color: #e9e2e2;
+    border-radius: 50px;
+}
+.white:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+
+.black{
+    width: 30px;
+    height: 30px;
+    background-color: #1d1d1f;
+    border-radius: 50px;
+}
+
+.black:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+
+
+
+
+
+
+
